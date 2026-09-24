@@ -1,0 +1,9 @@
+.env
+known_hosts
+__pycache__/
+*.pyc
+logs/
+downloaded_files/
+processed_files/
+.venv/
+.pytest_cache/
